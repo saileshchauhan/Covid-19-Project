@@ -1,0 +1,9 @@
+{
+	"name": "covid19-reproting-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e847bdec-6a8e-45a2-9027-09028d78c282",
+		"tenantId": "83be4f94-f32f-469b-a8be-2a91037be2cd"
+	}
+}

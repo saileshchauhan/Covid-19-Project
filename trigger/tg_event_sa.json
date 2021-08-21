@@ -1,0 +1,17 @@
+{
+	"name": "tg_event_sa",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [],
+		"type": "BlobEventsTrigger",
+		"typeProperties": {
+			"blobPathBeginsWith": "/population/blobs/population_by_age.tsv.gz",
+			"ignoreEmptyBlobs": true,
+			"scope": "/subscriptions/89952921-931e-48b7-850a-814c4bcd195a/resourceGroups/rg-covid19-reporting/providers/Microsoft.Storage/storageAccounts/covid19reportingsa7089",
+			"events": [
+				"Microsoft.Storage.BlobCreated"
+			]
+		}
+	}
+}

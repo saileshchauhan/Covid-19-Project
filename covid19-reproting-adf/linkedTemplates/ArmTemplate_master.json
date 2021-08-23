@@ -19,6 +19,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'accessToken' of 'ls_databricks_covidreporting'"
 		},
+		"ls_processed_sql_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'ls_processed_sql'"
+		},
 		"ls_adls_covidreportingdl_properties_typeProperties_url": {
 			"type": "string",
 			"defaultValue": "https://covid19reportingadlsg2.dfs.core.windows.net"
@@ -66,6 +70,9 @@
 					},
 					"ls_databricks_covidreporting_accessToken": {
 						"value": "[parameters('ls_databricks_covidreporting_accessToken')]"
+					},
+					"ls_processed_sql_connectionString": {
+						"value": "[parameters('ls_processed_sql_connectionString')]"
 					},
 					"ls_adls_covidreportingdl_properties_typeProperties_url": {
 						"value": "[parameters('ls_adls_covidreportingdl_properties_typeProperties_url')]"

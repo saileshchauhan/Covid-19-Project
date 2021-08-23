@@ -14,6 +14,9 @@
 		"ls_databricks_covidreporting_accessToken": {
 			"value": ""
 		},
+		"ls_processed_sql_connectionString": {
+			"value": ""
+		},
 		"ls_adls_covidreportingdl_properties_typeProperties_url": {
 			"value": "https://covid19reportingadlsg2.dfs.core.windows.net"
 		},

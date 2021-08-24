@@ -44,19 +44,19 @@ In this project data has been extracted from European Union center for Disease c
 
 
 ## Solution Architecture for Covid-19 Reporting Project
-![Screenshot (202)](https://user-images.githubusercontent.com/76868785/130592460-fd0c17f6-ef0b-457b-9e43-5e3646ee52d3.png)
+![Screenshot (254)](https://user-images.githubusercontent.com/76868785/130610076-1f11545f-a2c2-4897-93de-9fabb4654fd7.png)
 
 ## Project Completed in four sections
 * Data extraction and ingestion.
 * In Part 1 video Data is ingested from Azure blob storage to Azure Data Lake Gen2.
-  * [Data Ingestion Video Part 1](https://youtu.be/mvFNW-1b-b8)
+  * [Data Ingestion Video Part 1](https://youtu.be/6WQCjFInpJE)
 * In Part 2 video Data is extracted from ecdc website then ingested to Azure Data Lake Gen2. In csv format
   * [Data Ingestion Video Part 2](https://youtu.be/mvFNW-1b-b8)
 * Data Transformation.
-  * [Data Transformation using DataFlow Part 3](https://youtu.be/mvFNW-1b-b8)
-  * [Data Transformation using DataFlow Part 4](https://youtu.be/mvFNW-1b-b8)
-  * [Data Transformation using DataBricks Part 5](https://youtu.be/mvFNW-1b-b8)
+  * [Data Transformation using DataFlow Part 3](https://youtu.be/lX8TpXP9OOU)
+  * [Data Transformation using DataFlow Part 4](https://youtu.be/nsiPC1tYZ-8)
+  * [Data Transformation using DataBricks Part 5](https://youtu.be/waGNV52-gsM)
 * Copying Processed Data to Azure SQL Database.
-  * [Copying Processed Data to Azure SQL Database 6](https://youtu.be/mvFNW-1b-b8)
+  * [Copying Processed Data to Azure SQL Database 6](https://youtu.be/9IqyS9Xmu8Y)
 * Power BI Visualization.
   * [Power BI DashBoard](https://youtu.be/mvFNW-1b-b8)

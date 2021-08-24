@@ -48,6 +48,7 @@
 					],
 					"storeSettings": {
 						"type": "AzureBlobStorageReadSettings",
+						"recursive": true,
 						"enablePartitionDiscovery": false
 					},
 					"formatSettings": {
@@ -174,6 +175,9 @@
 				}
 			}
 		],
+		"folder": {
+			"name": "ingest"
+		},
 		"annotations": []
 	}
 }

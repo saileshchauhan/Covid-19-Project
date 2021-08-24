@@ -5,6 +5,9 @@
 			"referenceName": "ls_processed_sql",
 			"type": "LinkedServiceReference"
 		},
+		"folder": {
+			"name": "sql"
+		},
 		"annotations": [],
 		"type": "AzureSqlTable",
 		"schema": [

@@ -48,7 +48,9 @@ In this project data has been extracted from European Union center for Disease c
 
 ## Project Completed in four sections
 * Data extraction and ingestion.
+* In Part 1 video Data is ingested from Azure blob storage to Azure Data Lake Gen2.
   * [Data Ingestion Video Part 1](https://youtu.be/mvFNW-1b-b8)
+* In Part 2 video Data is extracted from ecdc website then ingested to Azure Data Lake Gen2. In csv format
   * [Data Ingestion Video Part 2](https://youtu.be/mvFNW-1b-b8)
 * Data Transformation.
   * [Data Transformation using DataFlow Part 3](https://youtu.be/mvFNW-1b-b8)

@@ -49,7 +49,6 @@ In this project data has been extracted from European Union center for Disease c
 ## Power BI Report For Covid-19 Cases
 ![Screenshot (255)](https://user-images.githubusercontent.com/76868785/130716153-4c973d8c-28c9-4abc-8544-0a4fbefa23be.png)
 
-[Link to view and download Power BI Report](https://drive.google.com/file/d/16TRsvqG2avcOJytdxUlubZ3OC6BKLOQN/view?usp=sharing)
 
 ## Project Completed in four sections
 * Data extraction and ingestion.

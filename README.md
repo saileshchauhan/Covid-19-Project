@@ -63,4 +63,4 @@ In this project data has been extracted from European Union center for Disease c
 * Copying Processed Data to Azure SQL Database.
   * [Copying Processed Data to Azure SQL Database 6](https://youtu.be/9IqyS9Xmu8Y)
 * Power BI Visualization.
-  * [Power BI DashBoard](https://youtu.be/mvFNW-1b-b8)
+  * [Power BI DashBoard](https://youtu.be/Gc_bmGZ4ERY)

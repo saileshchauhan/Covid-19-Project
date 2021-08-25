@@ -46,6 +46,11 @@ In this project data has been extracted from European Union center for Disease c
 ## Solution Architecture for Covid-19 Reporting Project
 ![Screenshot (254)](https://user-images.githubusercontent.com/76868785/130610076-1f11545f-a2c2-4897-93de-9fabb4654fd7.png)
 
+## Power BI Report For Covid-19 Cases
+![Screenshot (255)](https://user-images.githubusercontent.com/76868785/130716153-4c973d8c-28c9-4abc-8544-0a4fbefa23be.png)
+
+[Link to view and download Power BI Report](https://drive.google.com/file/d/16TRsvqG2avcOJytdxUlubZ3OC6BKLOQN/view?usp=sharing)
+
 ## Project Completed in four sections
 * Data extraction and ingestion.
 * In Part 1 video Data is ingested from Azure blob storage to Azure Data Lake Gen2.
